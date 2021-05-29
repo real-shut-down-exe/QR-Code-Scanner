@@ -23,7 +23,7 @@ For Whom:
 * Thank you for reading
 
 # Images from program 
-![-](-)
-![-](-)
-![-](-)
-![-](-)
+![1](https://github.com/LegendarX/QR-Code-Scanner/blob/main/img/1.png)
+![2](https://github.com/LegendarX/QR-Code-Scanner/blob/main/img/2.png)
+![3](https://github.com/LegendarX/QR-Code-Scanner/blob/main/img/code.png)
+![4](https://github.com/LegendarX/QR-Code-Scanner/blob/main/img/3.png)
